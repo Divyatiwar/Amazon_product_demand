@@ -22,7 +22,7 @@ Predict product demand using scraped Amazon data based on features like:
 
 ## 📁 Output Files
 - `amazon_demand_forecast.csv`: Final dataset
-- `demand_dashboard.pbix`: Interactive dashboard (coming soon)
+- `demand_dashboard.pbix`: Interactive dashboard 
 
 ## ✅ Sample Insights
 - Top 10 high-demand products
